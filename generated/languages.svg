@@ -132,7 +132,7 @@ div.ellipsis {
 
 <div>
 <span class="progress">
-<span style="background-color: #3D6117;width: 66.164%;" class="progress-item"></span><span style="background-color: #3572A5;width: 10.696%;" class="progress-item"></span><span style="background-color: #A97BFF;width: 7.000%;" class="progress-item"></span><span style="background-color: #00ADD8;width: 4.456%;" class="progress-item"></span><span style="background-color: #000000;width: 4.367%;" class="progress-item"></span><span style="background-color: #f1e05a;width: 1.539%;" class="progress-item"></span><span style="background-color: #e34c26;width: 1.480%;" class="progress-item"></span><span style="background-color: #f34b7d;width: 1.403%;" class="progress-item"></span><span style="background-color: #dea584;width: 1.308%;" class="progress-item"></span><span style="background-color: #6866fb;width: 0.899%;" class="progress-item"></span><span style="background-color: #3178c6;width: 0.319%;" class="progress-item"></span><span style="background-color: #438eff;width: 0.122%;" class="progress-item"></span><span style="background-color: #89e051;width: 0.081%;" class="progress-item"></span><span style="background-color: #384d54;width: 0.068%;" class="progress-item"></span><span style="background-color: #555555;width: 0.060%;" class="progress-item"></span><span style="background-color: #DA3434;width: 0.025%;" class="progress-item"></span><span style="background-color: #427819;width: 0.015%;" class="progress-item"></span>
+<span style="background-color: #3D6117;width: 66.207%;" class="progress-item"></span><span style="background-color: #3572A5;width: 10.683%;" class="progress-item"></span><span style="background-color: #A97BFF;width: 6.991%;" class="progress-item"></span><span style="background-color: #00ADD8;width: 4.451%;" class="progress-item"></span><span style="background-color: #000000;width: 4.362%;" class="progress-item"></span><span style="background-color: #f1e05a;width: 1.537%;" class="progress-item"></span><span style="background-color: #e34c26;width: 1.478%;" class="progress-item"></span><span style="background-color: #f34b7d;width: 1.401%;" class="progress-item"></span><span style="background-color: #dea584;width: 1.306%;" class="progress-item"></span><span style="background-color: #6866fb;width: 0.898%;" class="progress-item"></span><span style="background-color: #3178c6;width: 0.318%;" class="progress-item"></span><span style="background-color: #438eff;width: 0.122%;" class="progress-item"></span><span style="background-color: #89e051;width: 0.080%;" class="progress-item"></span><span style="background-color: #384d54;width: 0.068%;" class="progress-item"></span><span style="background-color: #555555;width: 0.060%;" class="progress-item"></span><span style="background-color: #DA3434;width: 0.025%;" class="progress-item"></span><span style="background-color: #427819;width: 0.015%;" class="progress-item"></span>
 </span>
 </div>
 
@@ -144,7 +144,7 @@ div.ellipsis {
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">TeX</span>
-<span class="percent">66.16%</span>
+<span class="percent">66.21%</span>
 </li>
 
 
@@ -153,7 +153,7 @@ fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">Python</span>
-<span class="percent">10.70%</span>
+<span class="percent">10.68%</span>
 </li>
 
 
@@ -162,7 +162,7 @@ fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">Kotlin</span>
-<span class="percent">7.00%</span>
+<span class="percent">6.99%</span>
 </li>
 
 
@@ -171,7 +171,7 @@ fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">Go</span>
-<span class="percent">4.46%</span>
+<span class="percent">4.45%</span>
 </li>
 
 
@@ -180,7 +180,7 @@ fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">BibTeX Style</span>
-<span class="percent">4.37%</span>
+<span class="percent">4.36%</span>
 </li>
 
 
@@ -279,7 +279,7 @@ fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">CMake</span>
-<span class="percent">0.03%</span>
+<span class="percent">0.02%</span>
 </li>
 
 
